@@ -1,0 +1,10 @@
+#Name: Josiel Perez
+#Email: josiel.perez13@myhunter.cuny.edu
+#Date: October 22, 2021
+#Writing Unix
+
+
+
+#!/bin/bash
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shell scripts!"
